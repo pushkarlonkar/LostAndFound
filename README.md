@@ -20,7 +20,7 @@ Once Logged in the user would be directed to the home page displaying two option
 
 ![Home](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/Home.png)
 
-He can click on the register button where he can register the complaint specifying his details, description of the lost object and time of the incident .
+He can click on the register button where he can register the complaint specifying his details, description of the lost object ,the reward (ETHER) and time of the incident .
 
 ![Register01](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/Register01.png)
 
@@ -29,9 +29,26 @@ Once registered the complain will be added to the blockchain along with the geog
 
 ![Register02](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/Register02.png)
 
-Once a complain is registered it would be visible to all other users present in that area 
-The other users have two choices 
+Once a complain is registered it would be visible to all other users present in that area .
+
+A complain goes through 3 stages 
+* Pending 
+* Proposed 
+* Resolved
+
+![view01](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/view01.png)
+
+Other users have two choices 
+
 ![options01](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/options01.png)
+
+**Fund Complain**
+
+Other Users if they feel can fund  and increase the reward for the solver of the comlaint
+A crowd sourcing thing 
+
+
+**Propose a Soultion**
 
 ## Built With 
   * [React.js](https://reactjs.org/)
