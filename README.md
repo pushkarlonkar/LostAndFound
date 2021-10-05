@@ -54,7 +54,15 @@ A Transaction would get initiated from account of the doner to that of the compl
 
 **Propose a Soultion**
 
-Someone who knows whereabouts of the lost  object can propose a solution and claim the reward 
+Someone who knows whereabouts of the lost  object can propose a solution . The status of the complain will change from **PENDING** to **PROPOSED**
+
+ if the solution is accepted by the complaint owner then a transaction with value of reward will take place from account of the complaint owner to the user who suggested the solution
+ 
+The status of the complain will change from **PROPOSED** to **RESOLVED** 
+
+Else if the complain owner is not satisfied with the suggestion then he can decline the request and the status will change back to **PENDING** 
+
+
 ![accept](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/accept.png)
 
 
