@@ -31,8 +31,7 @@ Once registered the complain will be added to the blockchain along with the geog
 
 Once a complain is registered it would be visible to all other users present in that area 
 The other users have two choices 
-
-![Fund](
+![options01](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/options01.png)
 
 ## Built With 
   * [React.js](https://reactjs.org/)
