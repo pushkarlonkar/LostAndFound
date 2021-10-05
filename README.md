@@ -47,8 +47,16 @@ Other users have two choices
 Other Users if they feel can fund  and increase the reward for the solver of the comlaint
 A crowd sourcing thing 
 
+A Transaction would get initiated from account of the doner to that of the complain owner
+
+![Funding](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/Funding.png)
+![fund](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/fund.png)
 
 **Propose a Soultion**
+
+Someone who knows whereabouts of the lost  object can propose a solution and claim the reward 
+![accept](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/accept.png)
+
 
 ## Built With 
   * [React.js](https://reactjs.org/)
