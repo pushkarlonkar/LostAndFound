@@ -1,9 +1,10 @@
 # LOST AND FOUND
+ /// we need a fucking introduction to the project over here 
 
 
 
 ## Description
-
+![Login](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/Login.png)
 An in-depth paragraph about your project and overview of use.
 We need a detatiled ecplaination of what the project is really about 
 
@@ -16,22 +17,37 @@ We need a detatiled ecplaination of what the project is really about
   
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
+* Install truffle 
+ ```
+npm install truffle -g
+```
+* clone the repository 
+ ```
+git clone https://github.com/Pushkarlonkar/LostAndFound.git
+```
+* Install necessary dependencies
+ ```
+npm install
+```
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+#### In Parent Folder
+* Compile Contracts
 ```
-code blocks for commands
+truffle compile
+```
+* Migrate the Contract to the  blockchain
+```
+truffle migrate 
+truffle migrate --reset
+```
+#### In Client Folder
+* start react app  
+```
+cd client
+npm start
 ```
 
 ## Help
