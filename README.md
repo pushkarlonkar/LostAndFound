@@ -63,6 +63,11 @@ The status of the complain will change from **PROPOSED** to **RESOLVED**
 Else if the complain owner is not satisfied with the suggestion then he can decline the request and the status will change back to **PENDING** 
 
 
+![propose](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/propose.png)
+
+![resolve](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/resolve.png)
+
+
 ![accept](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/accept.png)
 
 
