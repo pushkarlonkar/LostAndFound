@@ -1,12 +1,38 @@
 # LOST AND FOUND
- /// we need a fucking introduction to the project over here 
+ Lost and Found is a decentralized system for lodging civil complaints onto a network that uses blockchain to engage citizens in that area 
+ 
 
+ 
+ 
 
 
 ## Description
+In case a citizen looses something of value to him ,he can create an account onto the website .
+
+Once registered a secure transaction would be initiated which will register the user to the network . 
+
+Now he can login to the network with the help of his email Id and password specified during creation of the account .
+
 ![Login](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/Login.png)
-An in-depth paragraph about your project and overview of use.
-We need a detatiled ecplaination of what the project is really about 
+
+
+Once Logged in the user would be directed to the home page displaying two options register and solve .
+
+![Home](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/Home.png)
+
+He can click on the register button where he can register the complaint specifying his details, description of the lost object and time of the incident .
+
+![Register01](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/Register01.png)
+
+Once registered the complain will be added to the blockchain along with the geographic coordinates of the user. No one other than the user can make any changes to the complaint now !!.
+
+
+![Register02](https://github.com/Pushkarlonkar/LostAndFound/blob/master/readme/Register02.png)
+
+Once a complain is registered it would be visible to all other users present in that area 
+The other users have two choices 
+
+![Fund](
 
 ## Built With 
   * [React.js](https://reactjs.org/)
