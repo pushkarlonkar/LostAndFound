@@ -1,0 +1,17 @@
+.btna{
+    margin:1%;
+}
+.main{
+    background-color: aliceblue;
+}
+#toast-container {
+    top: auto !important;
+    right: auto !important;
+    bottom: 10%;
+    width: 30% !important;
+    left:7%;  
+    font-weight: 2px !important;
+}
+.btntd{
+    max-width: 500px;
+}

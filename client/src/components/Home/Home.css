@@ -1,0 +1,40 @@
+
+.hello{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200px;
+    color: #006064;
+    height: 180px !important;
+    margin-top : 2%;
+}
+.name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    margin-top: 5%;
+
+}
+.plain{
+    height: 720px;
+}
+.btns{
+    margin-top: 6%;
+    
+}
+.btna{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.he{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #006064;
+    font-size: 120px;
+    height: 130px !important;
+    margin-top: 25%;
+}
+.nm{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    margin-top: 2%;
+}
+.addr{
+    margin-top: 4%;
+}

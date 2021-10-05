@@ -1,0 +1,69 @@
+.main{
+  background-color: aliceblue;
+}
+.btnm{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.formdiv{
+    margin-top: 10%;
+    /* background-color: aliceblue; */
+}
+.tabs .tab a {
+    color: rgba(38, 166, 154, 0.7);
+    /*Custom Text Color*/
+  }
+  
+  .tabs .tab a:hover {
+    color:#26a69a;
+    /*Custom Color On Hover*/
+  }
+  .tabs .tab a:focus.active {
+    color:#26a69a;
+    /*Custom Text Color While Active*/
+    /* background-color: rgba(38, 166, 154, 0.2); */
+    /* background-color: white; */
+    background-color: aliceblue;
+    /*Custom Background Color While Active*/
+  }
+  .tabs .indicator {
+    background-color:#26a69a;
+    /*Custom Color Of Indicator*/
+  }
+  
+
+
+
+
+  .vect-img{
+    margin-top:5%;
+    /* background-color: aliceblue; */
+    
+  }
+  .img1{
+    width: 100%;
+    /* height: 60%; */
+  }
+  .title{
+      color:white;
+      font-family:'Montserrat', sans-serif;
+      font-size:40px;
+      /* src :url("../../Content/LANEUP__.ttf"); */
+      margin-top: 8%;
+      font-weight:bold;
+      /* font-weight: lighter; */
+      /* background-color: aqua; */
+  }
+  .subtitle{
+    color:#76ff03;
+    /* font-family:'Montserrat', sans-serif; */
+    font-size: 18px;
+
+  }
+  
+  .maindiv{
+      /* height: px; */
+      /* background-color: #26a69a; */
+  }
+  
+    
